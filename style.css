@@ -1,0 +1,33 @@
+#navbar span {
+    margin: 20px;
+    font-size: 20px;
+}
+
+#header{
+    border-bottom: 2px solid gainsboro;
+    padding: 10px;
+}
+
+#buttons{
+    float: right;
+    margin: 10px;
+}
+
+#buttons button{
+    background-color: transparent;
+    border: none;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+}
+
+#login{
+    color: #444bab;
+    font-weight: 700;
+}
+
+#signup-button, #book-call, #start-learning{
+    background: linear-gradient(91.41deg, #444BAB 0%, #3AA2C1 99.71%);
+    color: white;
+    border-radius: 6px;
+}
